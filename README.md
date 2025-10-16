@@ -1,4 +1,4 @@
-Loan Default A/B Test: Prime Borrower Badge Impact
+#**Loan Default A/B Test: Prime Borrower Badge Impact**
 
 This project evaluates whether highlighting “Prime Borrower” status for applicants with above-median credit scores reduces loan default rates.
 
@@ -44,7 +44,7 @@ The 95% confidence interval for the difference in default rates (B − A) ranges
 
 ## Files
 
-- `analysis/ab_test_analysis.ipynb`: Python notebook with hypothesis testing and confidence interval calculations
+- [View the analysis notebook](): Python notebook with hypothesis testing and confidence interval calculations
 - 
 
 ## Tools Used
