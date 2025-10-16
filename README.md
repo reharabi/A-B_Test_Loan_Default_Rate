@@ -1,4 +1,4 @@
-##**Loan Default A/B Test: Prime Borrower Badge Impact**
+## Loan Default A/B Test: Prime Borrower Badge Impact
 
 This project evaluates whether highlighting “Prime Borrower” status for applicants with above-median credit scores reduces loan default rates.
 
