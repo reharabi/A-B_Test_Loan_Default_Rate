@@ -44,7 +44,7 @@ The 95% confidence interval for the difference in default rates (B − A) ranges
 
 ## Files
 
-- [View the analysis notebook](https://github.com/reharabi/A-B_Test_Loan_Default_Rate/blob/main/A_B_testing_practice_using_loan_dataset.ipynb): Python notebook with hypothesis testing and confidence interval calculations
+- [View the analysis notebook](https://github.com/reharabi/A-B_Test_Loan_Default_Rate/blob/main/A_B_testing_practice_using_loan_dataset%20(1).ipynb): Python notebook with hypothesis testing and confidence interval calculations
 - [View the dataset](https://github.com/reharabi/A-B_Test_Loan_Default_Rate/blob/main/loan_data.csv)
 
 ## Tools Used
